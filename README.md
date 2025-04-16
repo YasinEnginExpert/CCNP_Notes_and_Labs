@@ -6,6 +6,8 @@ This repository contains Cisco CCNP networking labs, designed for learning and p
 📂 Repository Structure
 - 📂 CCNP-Labs/
    - 📂 Packet Forwarding
+   - 📂 STP
+
 
 - 📜 LICENSE
 - 📄 .gitignore
