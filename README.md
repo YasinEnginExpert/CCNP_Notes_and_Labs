@@ -8,6 +8,8 @@ This repository contains Cisco CCNP networking labs, designed for learning and p
    - 📂 Packet Forwarding
    - 📂 STP
    - 📂 Advance STP Tuning
+   - 📂 MST
+
 
 - 📜 LICENSE
 - 📄 .gitignore
