@@ -9,7 +9,7 @@ This repository contains Cisco CCNP networking labs, designed for learning and p
    - 📂 STP
    - 📂 Advance STP Tuning
    - 📂 MST
-
+   - 📂 VLAN Trunks and EtherChannel
 
 - 📜 LICENSE
 - 📄 .gitignore
