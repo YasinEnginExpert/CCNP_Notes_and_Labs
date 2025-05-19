@@ -12,7 +12,7 @@ This repository contains Cisco CCNP networking labs, designed for learning and p
    - 📂 VLAN Trunks and EtherChannel
    - 📂 IP Routing Essentials
    - 📂 EIGRP
-
+   - 📂 OSPF
 - 📜 LICENSE
 - 📄 .gitignore
 - 📄 README.md
