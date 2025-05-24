@@ -13,6 +13,7 @@ This repository contains Cisco CCNP networking labs, designed for learning and p
    - 📂 IP Routing Essentials
    - 📂 EIGRP
    - 📂 OSPF
+   - 📂 Advanced OSPF
 - 📜 LICENSE
 - 📄 .gitignore
 - 📄 README.md
