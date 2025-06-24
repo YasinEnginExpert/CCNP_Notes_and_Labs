@@ -20,25 +20,32 @@ This repository contains Cisco CCNP networking labs, designed for learning and p
 - 📄 .gitignore
 - 📄 README.md
 
-📦 Required Cisco IOS Images
-Before running the labs in this repository, please ensure you have the following Cisco IOS images available and imported into your GNS3 or EVE-NG environment. These images are not included in the repository due to licensing restrictions and must be obtained separately.
+## 📦 Required Cisco IOS Images for Labs
 
-Router and Switch Images Used:
-i86bi-linux-l2-adventerprisek9-15.2d.bin — Cisco IOSvL2 Layer 2 switch image
+Before running any of the labs in this repository, please make sure you have the following **Cisco IOS images** available in your environment.
 
-c7200-adventerprisek9-mz.153-3.XB12.image — Cisco 7200 router image
+> ⚠️ **Note:** These images are not included in this repository due to Cisco licensing restrictions. You must obtain and import them into your GNS3 or EVE-NG setup manually.
 
-c7200-advipservicesk9-mz.152-4.S5.image — Cisco 7200 with Advanced IP Services
+### ✅ IOS Images Used
 
-c7200-adventerprisek9-mz.152-4.S3.image — Alternative Cisco 7200 image
+| Platform      | File Name                                                  | Description                          |
+|---------------|-------------------------------------------------------------|--------------------------------------|
+| IOSvL2        | `i86bi-linux-l2-adventerprisek9-15.2d.bin`                  | Cisco IOSv Layer 2 Switch            |
+| IOSv          | `Cisco IOSv 15.9(3)M6`                                      | Cisco IOSv Virtual Router            |
+| IOSvL2        | `Cisco IOSvL2 15.2(4.0.55)E`                                | Cisco IOSvL2 Virtual Switch          |
+| 7200 Router   | `c7200-adventerprisek9-mz.153-3.XB12.image`                | Cisco 7200 Advanced Enterprise       |
+| 7200 Router   | `c7200-advipservicesk9-mz.152-4.S5.image`                  | Cisco 7200 with Advanced IP Services |
+| 7200 Router   | `c7200-adventerprisek9-mz.152-4.S3.image`                  | Cisco 7200 Alternative Image         |
+| 3725 Router   | `c3725-adventerprisek9-mz.124-15.T14.image`                | Cisco 3725 Advanced Enterprise       |
 
-c3725-adventerprisek9-mz.124-15.T14.image — Cisco 3725 router image
+### 📂 Where to Import
 
-Cisco IOSv 15.9(3)M6 — IOSv virtual router image
+You will need to import these images into your preferred network simulation platform, such as:
 
-Cisco IOSvL2 15.2(4.0.55)E — IOSvL2 virtual switch image
+- **GNS3**
+- **EVE-NG**
 
-📝 Note: You need to manually import these images into your network simulation environment (e.g., GNS3 or EVE-NG) before launching any labs provided in this repository.
+---
 
 
 🚀 Getting Started
