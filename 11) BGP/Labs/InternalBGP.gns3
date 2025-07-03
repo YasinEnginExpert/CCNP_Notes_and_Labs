@@ -31,8 +31,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"121\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.10.1.0/24</text></svg>",
-                "x": -110,
-                "y": -81,
+                "x": -113,
+                "y": -71,
                 "z": 2
             },
             {
@@ -40,8 +40,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"121\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.10.2.0/24</text></svg>",
-                "x": -402,
-                "y": 81,
+                "x": -405,
+                "y": 91,
                 "z": 2
             },
             {
@@ -49,8 +49,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"121\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.10.3.0/24</text></svg>",
-                "x": 191,
-                "y": 77,
+                "x": 188,
+                "y": 87,
                 "z": 2
             },
             {
@@ -58,8 +58,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"121\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.10.4.0/24</text></svg>",
-                "x": -119,
-                "y": 247,
+                "x": -122,
+                "y": 257,
                 "z": 2
             },
             {
@@ -67,8 +67,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"1000.0\" height=\"569.0\"><ellipse cx=\"500\" rx=\"500\" cy=\"284\" ry=\"285\" fill=\"#ffd4b8\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#ffd4b8\" /></svg>",
-                "x": -543,
-                "y": -187,
+                "x": -546,
+                "y": -177,
                 "z": -2
             },
             {
@@ -76,8 +76,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"163\" height=\"53\"><text font-family=\"MS Shell Dlg 2\" font-size=\"22.0\" fill=\"#000000\" fill-opacity=\"1.0\">AS 65000</text></svg>",
-                "x": -155,
-                "y": -174,
+                "x": -158,
+                "y": -164,
                 "z": 2
             }
         ],
@@ -277,8 +277,8 @@
                 "symbol": ":/symbols/GNS3images/Telekom_Logo_2013.svg.png",
                 "template_id": "09fd5fe1-d79a-4602-94fc-4f03e6a97cd3",
                 "width": 434,
-                "x": -349,
-                "y": -77,
+                "x": -352,
+                "y": -67,
                 "z": 1
             },
             {
@@ -346,8 +346,8 @@
                 "symbol": ":/symbols/GNS3images/Telekom_Logo_2013.svg.png",
                 "template_id": "09fd5fe1-d79a-4602-94fc-4f03e6a97cd3",
                 "width": 434,
-                "x": 94,
-                "y": -77,
+                "x": 91,
+                "y": -67,
                 "z": 1
             },
             {
@@ -415,8 +415,8 @@
                 "symbol": ":/symbols/GNS3images/Telekom_Logo_2013.svg.png",
                 "template_id": "09fd5fe1-d79a-4602-94fc-4f03e6a97cd3",
                 "width": 434,
-                "x": -350,
-                "y": 186,
+                "x": -353,
+                "y": 196,
                 "z": 1
             },
             {
@@ -484,8 +484,8 @@
                 "symbol": ":/symbols/GNS3images/Telekom_Logo_2013.svg.png",
                 "template_id": "09fd5fe1-d79a-4602-94fc-4f03e6a97cd3",
                 "width": 434,
-                "x": 94,
-                "y": 186,
+                "x": 91,
+                "y": 196,
                 "z": 1
             }
         ]
