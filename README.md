@@ -17,6 +17,7 @@ This repository contains Cisco CCNP networking labs, designed for learning and p
    - 📂 OSPFv3
    - 📂 BGP
    - 📂 Advanced BGP
+   - 📂 Multicast
 
 - 📜 LICENSE
 - 📄 .gitignore
