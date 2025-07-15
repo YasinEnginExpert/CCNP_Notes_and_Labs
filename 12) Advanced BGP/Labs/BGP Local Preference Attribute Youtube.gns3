@@ -21,9 +21,9 @@
                 "drawing_id": "50ecba77-0d58-404c-ac87-35f6e599a626",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"200.0\" height=\"673.0\"><ellipse cx=\"100\" rx=\"100\" cy=\"336\" ry=\"337\" fill=\"#b6ff86\" fill-opacity=\"1.0\" stroke-dasharray=\"5, 25\" stroke-width=\"10\" stroke=\"#ffff77\" /></svg>",
-                "x": -645,
-                "y": -455,
+                "svg": "<svg width=\"228.8590073949931\" height=\"644.5\"><ellipse cx=\"114\" rx=\"115\" cy=\"322\" ry=\"323\" fill=\"#b6ff86\" fill-opacity=\"1.0\" stroke-dasharray=\"5, 25\" stroke-width=\"10\" stroke=\"#ffff77\" /></svg>",
+                "x": -679,
+                "y": -451,
                 "z": -1
             },
             {
@@ -85,8 +85,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"147\" height=\"40\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.10.8/30\n2005:abcd:1002::/64</text></svg>",
-                "x": -523,
-                "y": -230,
+                "x": -778,
+                "y": -263,
                 "z": 2
             },
             {
@@ -103,8 +103,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"147\" height=\"40\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.10.16/30\n2005:abcd:1004::/64</text></svg>",
-                "x": -503,
-                "y": -50,
+                "x": -773,
+                "y": -40,
                 "z": 2
             },
             {
@@ -112,8 +112,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"147\" height=\"40\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.10.20/30\n2005:abcd:1005::/64</text></svg>",
-                "x": -413,
-                "y": -180,
+                "x": -393,
+                "y": -170,
                 "z": 2
             },
             {
@@ -187,6 +187,15 @@
                 "x": 223,
                 "y": -212,
                 "z": 2
+            },
+            {
+                "drawing_id": "6e8f329b-a8c0-4fa0-8b5d-bf8678027905",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"147\" height=\"40\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.10.44/30\n2005:abcd:100b::/64</text></svg>",
+                "x": -533,
+                "y": -120,
+                "z": 2
             }
         ],
         "links": [
@@ -201,8 +210,8 @@
                             "rotation": 0,
                             "style": "font-family: MS Shell Dlg 2;font-size: 14.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "g0/0",
-                            "x": 26,
-                            "y": -38
+                            "x": -26,
+                            "y": -19
                         },
                         "node_id": "ec65c8e6-8970-4969-9d11-5c39eec0bf52",
                         "port_number": 0
@@ -245,8 +254,8 @@
                             "rotation": 0,
                             "style": "font-family: MS Shell Dlg 2;font-size: 14.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "g1/0",
-                            "x": 12,
-                            "y": 87
+                            "x": -24,
+                            "y": 100
                         },
                         "node_id": "00b7c0c6-e024-470e-b589-c545563688f4",
                         "port_number": 0
@@ -297,8 +306,8 @@
                             "rotation": 0,
                             "style": "font-family: MS Shell Dlg 2;font-size: 14.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "g2/0",
-                            "x": 132,
-                            "y": 20
+                            "x": 87,
+                            "y": 14
                         },
                         "node_id": "47023bc6-fb52-41e2-8891-a6688e327d77",
                         "port_number": 0
@@ -441,6 +450,38 @@
                             "y": 86
                         },
                         "node_id": "a41db418-e12b-4fb0-99ea-466edf3f3595",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "e0768654-9302-49ef-913b-d5db2980c792",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 2,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: MS Shell Dlg 2;font-size: 14.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "g2/0",
+                            "x": 53,
+                            "y": 78
+                        },
+                        "node_id": "00b7c0c6-e024-470e-b589-c545563688f4",
+                        "port_number": 0
+                    },
+                    {
+                        "adapter_number": 1,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: MS Shell Dlg 2;font-size: 14.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "g1/0",
+                            "x": 31,
+                            "y": -53
+                        },
+                        "node_id": "ec65c8e6-8970-4969-9d11-5c39eec0bf52",
                         "port_number": 0
                     }
                 ],
@@ -927,7 +968,7 @@
                 "symbol": ":/symbols/GNS3images/Vodafone_logo_2006.png",
                 "template_id": "09fd5fe1-d79a-4602-94fc-4f03e6a97cd3",
                 "width": 318,
-                "x": -599,
+                "x": -719,
                 "y": -160,
                 "z": 1
             }
@@ -936,5 +977,5 @@
     "type": "topology",
     "variables": null,
     "version": "2.2.52",
-    "zoom": 100
+    "zoom": 119
 }
