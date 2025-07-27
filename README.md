@@ -18,6 +18,7 @@ This repository contains Cisco CCNP networking labs, designed for learning and p
    - 📂 BGP
    - 📂 Advanced BGP
    - 📂 Multicast
+   - 📂 QoS
 
 - 📜 LICENSE
 - 📄 .gitignore
