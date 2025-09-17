@@ -18,7 +18,16 @@ This repository contains Cisco CCNP networking labs, designed for learning and p
    - 📂 BGP
    - 📂 Advanced BGP
    - 📂 Multicast
-   - 📂 QoS
+   - 📂 IP Services
+   - 📂 Over Tunnels
+   - 📂 Wireless Signals and Modulations
+   - 📂 Wireless Infrastructure
+   - 📂 Understanding Wireless Roaming and Location Services
+   - 📂 Authentication Wireless Clients
+   - 📂 Troubleshooting Wireless Connectivity
+   - 📂 Enterprice Network Arch
+   - 📂 Fablic Technologies
+   - 📂 Network Assurance
 
 - 📜 LICENSE
 - 📄 .gitignore
